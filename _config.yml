@@ -1,0 +1,11 @@
+# Site settings
+title: Church of Silentology
+url: http://churchofsilentology.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

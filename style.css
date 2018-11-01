@@ -1,0 +1,16 @@
+body {
+  font-family: "Palatino";
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.logo {
+  font-size: 4em;
+}
